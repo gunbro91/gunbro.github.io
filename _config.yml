@@ -59,7 +59,7 @@ collections:
     output          : true
 
 # 3. Comment settings（disqus.com）
-disqus_username     : akiritsu
+disqus_username     : 
 
 # 4. Default page settings (WILL BE overwriten by front-matters of a page)
 defaults:
@@ -81,7 +81,7 @@ defaults:
       category            :             # category by default
       post_list           : false       # whether show list of post by default      
       comment             : true
-      footer              : false # whether show footer by default
+      footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
 email               : "pistoMr@kakao.com" 
