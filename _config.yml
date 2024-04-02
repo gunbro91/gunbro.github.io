@@ -1,7 +1,7 @@
 # 1. Site Settings
 title               : O-R-B-N-U-G
 owner               : "GUNBRO"
-url                : "https://gunbro.github.io"
+url                : "https://gunbro91.github.io"
 baseurl            : "/"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
